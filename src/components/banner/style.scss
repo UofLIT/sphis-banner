@@ -1,0 +1,12 @@
+#banner {
+	background-color: hsl(200, 25%, 45%);
+	border: 5px solid white;
+	position: relative;
+}
+
+.prevButton,
+.nextButton {
+	cursor: pointer;
+	width: 5%;
+	z-index: 1;
+}

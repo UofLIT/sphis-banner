@@ -1,0 +1,97 @@
+{
+	"parent_url": "http://louisville.edu/sphis/images",
+	"path": [
+		{
+			"url": "http://louisville.edu/sphis/banners",
+			"icon": "<img src=\"img/folder.png\" width=\"16\" height=\"16\" />",
+			"title": "Banners"
+		}
+	],
+	"upload_allowed": false,
+	"items": [
+		{
+			"description": "Learn More\r\n/sphis/departments/health-management-systems-sciences/academics-1/ms-in-health-administration",
+			"uid": "5b29b3408801470c9b8813de855e69e8",
+			"title": "New! M.S. in Health Administration",
+			"url": "http://louisville.edu/sphis/images/banners/iStock486359911HMSShealthadministratorsmedium.png",
+			"is_folderish": false,
+			"review_state": null,
+			"icon": "<img width=\"16\" height=\"16\" src=\"http://louisville.edu/sphis/png.png\" alt=\"Image PNG image\" />",
+			"portal_type": "Image",
+			"id": "iStock486359911HMSShealthadministratorsmedium.png",
+			"normalized_type": "image"
+		},
+		{
+			"description": "Apply Now\r\n/sphis/academics/mph-program",
+			"uid": "c89e167f38f44d1c87963edac9bdf0d8",
+			"title": "MPH: Accepting Applications for Fall 2018",
+			"url": "http://louisville.edu/sphis/images/banners/mph-accepting-applications-for-fall-2018",
+			"is_folderish": false,
+			"review_state": null,
+			"icon": "<img width=\"16\" height=\"16\" src=\"http://louisville.edu/sphis/image.png\" alt=\"Image\" />",
+			"portal_type": "Image",
+			"id": "mph-accepting-applications-for-fall-2018",
+			"normalized_type": "image"
+		},
+		{
+			"description": "Learn More\r\nhttp://louisville.edu/online/programs/masters/master-of-science-in-biostatistics?utm_source=msbst-website",
+			"uid": "facd87c4eb0a4f28a723ae6ff895e5a6",
+			"title": "M.S. in Biostatistics now offered online",
+			"url": "http://louisville.edu/sphis/images/banners/biostatistics",
+			"is_folderish": false,
+			"review_state": null,
+			"icon": "<img width=\"16\" height=\"16\" src=\"http://louisville.edu/sphis/image.png\" alt=\"Image VCS/ICS calendar\" />",
+			"portal_type": "Image",
+			"id": "biostatistics",
+			"normalized_type": "image"
+		},
+		{
+			"description": "Award-winning faculty teach future leaders\r\n/sphis/news/sphis-alumna-gta-rishtya-kakar-named-2016-17-201ctop-6201d-faculty-favorite",
+			"uid": "be0a86bd1d2848eb80715ca6e03f17a0",
+			"title": "Preparing the public health workforce",
+			"url": "http://louisville.edu/sphis/images/banners/copy_of__MG_6590.JPG",
+			"is_folderish": false,
+			"review_state": null,
+			"icon": "<img width=\"16\" height=\"16\" src=\"http://louisville.edu/sphis/image.png\" alt=\"Image\" />",
+			"portal_type": "Image",
+			"id": "copy_of__MG_6590.JPG",
+			"normalized_type": "image"
+		},
+		{
+			"description": "SPHIS team develops public health campaign\r\n/sphis/news/public-health-faculty-uses-research-based-strategy-for-campaign-development",
+			"uid": "c9b0ec140c3843a5b204e78c9a5e8a82",
+			"title": "Discovering new knowledge",
+			"url": "http://louisville.edu/sphis/images/banners/hivcampaignhorizontalfinal1.jpg",
+			"is_folderish": false,
+			"review_state": null,
+			"icon": "<img width=\"16\" height=\"16\" src=\"http://louisville.edu/sphis/image.png\" alt=\"Image JPEG image\" />",
+			"portal_type": "Image",
+			"id": "hivcampaignhorizontalfinal1.jpg",
+			"normalized_type": "image"
+		},
+		{
+			"description": "Students participate in learning trip to Ghana\r\n/sphis/news/ghana-sankofa-experience",
+			"uid": "1dc9e278e2ae4f14a622edaa34fdd7b7",
+			"title": "Opening minds through global experiences",
+			"url": "http://louisville.edu/sphis/images/banners/FieldWorkinKongCommunity.JPG",
+			"is_folderish": false,
+			"review_state": null,
+			"icon": "<img width=\"16\" height=\"16\" src=\"http://louisville.edu/sphis/image.png\" alt=\"Image\" />",
+			"portal_type": "Image",
+			"id": "FieldWorkinKongCommunity.JPG",
+			"normalized_type": "image"
+		},
+		{
+			"description": "Alumni Spotlights\r\n/sphis/alumni-and-donors/alumni-news",
+			"uid": "b6ff6ebe12ac47ea8794a035164444ce",
+			"title": "Alumni advancing public health",
+			"url": "http://louisville.edu/sphis/images/banners/graduationwinter2017.PNG",
+			"is_folderish": false,
+			"review_state": null,
+			"icon": "<img width=\"16\" height=\"16\" src=\"http://louisville.edu/sphis/png.png\" alt=\"Image\" />",
+			"portal_type": "Image",
+			"id": "graduationwinter2017.PNG",
+			"normalized_type": "image"
+		}
+	]
+}

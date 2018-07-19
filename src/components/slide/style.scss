@@ -1,0 +1,26 @@
+.slide {
+	background-color: hsl(200, 25%, 45%);
+}
+.slide h2,
+.slide h3,
+.slide a {
+	color: white !important;
+}
+.slide h2 {
+	font-size: 2.5rem;
+}
+.slide h3 {
+	font-size: 1.5rem;
+}
+@media (max-width: 991px) {
+	.slide h2 {
+		font-size: 2rem;
+	}
+	.slider h3 {
+		font-size: 1rem;
+	}
+}
+.slide-image {
+	background-size: cover;
+	padding-top: 66.66%;
+}
